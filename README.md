@@ -183,5 +183,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need further assistance, feel free to reach out at:
 
-- **Email**: support@yourdomain.com
-- **GitHub**: [LoanManagementSystem GitHub](https://github.com/yourusername/LoanManagementSystem)
+- **Email**: support@iatifsyed.github.io
+- **GitHub**: [LoanManagementSystem GitHub](https://github.com/iatifsyed/LoanManagementSystem)
